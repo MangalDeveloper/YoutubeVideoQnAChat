@@ -84,4 +84,4 @@ If the context is insufficient, just say you don't know.
 
 ## 📸 App Screenshot  
 
-![App Screenshot](./Screenshots/streamlit_app.png)
+![App Screenshot](./YoutubeChatQnA.png)
